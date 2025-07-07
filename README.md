@@ -1,5 +1,4 @@
-# SCRAPYARD
-# SCRAPYARD
+# Project SCRAPYARD
 
 **An architecture for a new generation of Human-AI Partnership.**
 
